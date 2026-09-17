@@ -1,0 +1,13 @@
+{
+  "tag": "main_19D_standardized",
+  "n_observations": 1000000,
+  "n_features": 19,
+  "standardization": "z-score; mean and population standard deviation calculated across all observations in the selected dataset",
+  "pca_solver": "sklearn PCA, svd_solver=full",
+  "pc1_percent": 13.064067648326821,
+  "pc2_percent": 10.47368021163448,
+  "pc1_pc2_percent": 23.5377478599613,
+  "pcs_for_90_percent": 15,
+  "pcs_for_95_percent": 17,
+  "pcs_for_99_percent": 18
+}

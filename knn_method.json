@@ -1,0 +1,13 @@
+{
+  "metric": "Euclidean distance",
+  "space": "standardized selected entropy fingerprint",
+  "definition": "1 / mean distance to k nearest non-self neighbours",
+  "k_values": [
+    5,
+    10,
+    20
+  ],
+  "sampling": "deterministic random sample of 100,000 from 1,000,000",
+  "random_seed": 42,
+  "interpretation": "inverse-mean-kNN-distance proximity score; not claimed to be a formally normalized probability-density estimator"
+}
