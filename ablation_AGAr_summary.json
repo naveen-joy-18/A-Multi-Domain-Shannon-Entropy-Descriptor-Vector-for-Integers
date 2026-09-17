@@ -1,0 +1,13 @@
+{
+  "tag": "ablation_AGAr",
+  "n_observations": 1000000,
+  "n_features": 3,
+  "standardization": "z-score; mean and population standard deviation calculated across all observations in the selected dataset",
+  "pca_solver": "sklearn PCA, svd_solver=full",
+  "pc1_percent": 81.32345694311557,
+  "pc2_percent": 14.744304639094482,
+  "pc1_pc2_percent": 96.06776158221005,
+  "pcs_for_90_percent": 2,
+  "pcs_for_95_percent": 2,
+  "pcs_for_99_percent": 3
+}

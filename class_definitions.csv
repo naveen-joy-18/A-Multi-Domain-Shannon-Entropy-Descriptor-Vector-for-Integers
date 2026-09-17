@@ -1,0 +1,10 @@
+class,definition
+prime,omega(n)=1 and Omega(n)=1
+prime_power,omega(n)=1
+squarefree,Omega(n)=omega(n)
+semiprime,Omega(n)=2
+highly_composite,tau(n) exceeds tau(m) for every m<n
+perfect,sigma(n)=2n
+abundant,sigma(n)>2n
+deficient,sigma(n)<2n
+carmichael,"Korselt criterion: composite, squarefree, and (p-1)|(n-1) for every prime p dividing n"

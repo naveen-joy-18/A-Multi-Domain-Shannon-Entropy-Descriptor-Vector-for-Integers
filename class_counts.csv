@@ -1,0 +1,10 @@
+class,count,prevalence
+prime,78498,0.078498
+prime_power,78734,0.078734
+squarefree,607925,0.607925
+semiprime,210035,0.210035
+highly_composite,38,3.8e-05
+perfect,4,4e-06
+abundant,247545,0.247545
+deficient,752450,0.75245
+carmichael,43,4.3e-05

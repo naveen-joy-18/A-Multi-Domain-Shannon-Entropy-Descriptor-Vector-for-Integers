@@ -1,0 +1,5 @@
+configuration,n_features,features,PC1_percent,PC2_percent,PC1_PC2_percent,PCs_for_90_percent,PCs_for_95_percent,PCs_for_99_percent
+AGAr,3,H_algebraic;H_geometric;H_arithmetic,81.32345694311557,14.744304639094482,96.06776158221005,2,2,3
+AGArD,4,H_algebraic;H_geometric;H_arithmetic;H_dynamical_collatz,61.41471583181175,24.944245888818486,86.35896172063023,3,3,4
+P_only,15,H_pos_base2;H_pos_base3;H_pos_base4;H_pos_base5;H_pos_base6;H_pos_base7;H_pos_base8;H_pos_base9;H_pos_base10;H_pos_base11;H_pos_base12;H_pos_base13;H_pos_base14;H_pos_base15;H_pos_base16,13.370410746975525,10.231089837740255,23.60150058471578,13,14,15
+ALL_19,19,H_algebraic;H_geometric;H_arithmetic;H_pos_base2;H_pos_base3;H_pos_base4;H_pos_base5;H_pos_base6;H_pos_base7;H_pos_base8;H_pos_base9;H_pos_base10;H_pos_base11;H_pos_base12;H_pos_base13;H_pos_base14;H_pos_base15;H_pos_base16;H_dynamical_collatz,13.064067648326821,10.47368021163448,23.5377478599613,15,17,18
