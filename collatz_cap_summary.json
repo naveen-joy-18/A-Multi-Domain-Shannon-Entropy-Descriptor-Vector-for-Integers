@@ -1,0 +1,10 @@
+{
+  "n_observations": 1000000,
+  "cap_2000_capped_count": 0,
+  "cap_5000_capped_count": 0,
+  "changed_entropy_count_abs_delta_gt_1e-12": 0,
+  "max_abs_entropy_difference": 0.0,
+  "mean_abs_entropy_difference": 0.0,
+  "existing_vs_cap2000_max_abs_difference": 3.3306690738754696e-16,
+  "implementation": "Parity-bit Shannon entropy reproduced from supplied dynamical.py; n<=1 convention H=0."
+}
